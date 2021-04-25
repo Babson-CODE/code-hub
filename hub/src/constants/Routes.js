@@ -1,0 +1,12 @@
+export const SIGN_UP = '/signup';
+export const SIGN_IN = '/signin';
+export const LANDING = '/';
+export const HOME = '/home';
+export const ACCOUNT = '/account';
+export const ADMIN = '/admin';
+export const PASSWORD_FORGET = '/pw-forget';
+export const DASHBOARD_CHAT = '/dashboard/chart';
+export const DASHBOARD_DEPOSITS = '/dashboard/deposits';
+export const DASHBOARD_LIST_ITEMS = '/dashboard/listitems';
+export const DASHBOARD_ORDERS = '/dashboard/orders';
+export const DASHBOARD = '/dashboard';
